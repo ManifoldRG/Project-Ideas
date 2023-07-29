@@ -12,6 +12,6 @@ To contribute an idea to this list, open an issue like the template [here](https
 
 **Table of existing project ideas**:
 
-| Project Name | Projected Timespan | Abstractness Level 1-5|
-| -------- | -------- | -------- |
-| [Template Project](https://github.com/ManifoldRG/Project-Ideas/issues/1)   | 18 months   |  3  |
+| Project Name | Project Field |
+| -------- | -------- |
+| [Template Project](https://github.com/ManifoldRG/Project-Ideas/issues/1)   | Software Infrastructure  |
